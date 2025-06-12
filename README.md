@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m KNguyen260404
+### 👋 Hi there, I’m Khoi Nguyen
 
 🔍 I'm passionate about **Digital IC Design**, **Synthesis**, and **Physical Design**.
 
