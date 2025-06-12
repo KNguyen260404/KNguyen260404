@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Khoi Nguyen
 
-🔍 I'm passionate about **Digital IC Design**, **Synthesis**, and **Physical Design**.
+🔍 I'm passionate about **Synthesis**, and **Physical Design**.
 
 💡 I’m currently learning and working on:
 - CMOS circuits
