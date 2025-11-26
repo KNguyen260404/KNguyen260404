@@ -12,6 +12,7 @@
 🛠️ Tools & Technologies I use:
 - Open-source EDA: `Cadence Innovus`,`OpenLane`,`LibreLane`,`Icarus Verilog`, `GTKWave`, ...
 - RTL design & simulation using Verilog
+- Using technology SkyWater130nm
 - Basic understanding of backend design flow (Synthesis → Floorplanning → CTS → Placement & Routing → GDSII)
 
 💻 Programming & HDL Languages:
